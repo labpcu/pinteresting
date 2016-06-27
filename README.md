@@ -1,7 +1,7 @@
-# One MOnth Rails
+# One Month Rails
 
 This is a simple pinteresting sample app for 
 [* One Month Rails *](http://onemonthrails.com)
 
 
-by [LabPcu]
+by (LabPcu)
